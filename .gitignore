@@ -1,0 +1,23 @@
+# Credenciais privadas e dados grandes
+.env
+*.zip
+*.csv
+data/*
+!data/.gitkeep
+# Arquivos temporarios
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+.pytest_cache/
+.DS_Store
+# Saidas criadas durante a execucao
+logs/
+graficos/*.png
+
+.env
+.env.*
+!.env.example
+.venv/
+__pycache__/
+.ipynb_checkpoints/
