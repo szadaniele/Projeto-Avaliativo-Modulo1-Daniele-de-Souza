@@ -13,7 +13,7 @@ __pycache__/
 .DS_Store
 # Saidas criadas durante a execucao
 logs/
-graficos/*.png
+
 
 .env
 .env.*
@@ -21,3 +21,5 @@ graficos/*.png
 .venv/
 __pycache__/
 .ipynb_checkpoints/
+
+data/
